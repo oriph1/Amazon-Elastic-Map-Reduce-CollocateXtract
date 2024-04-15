@@ -81,7 +81,7 @@ Output:
 
 ### Combiner (optional):
 Input:
-1) Key = < decade > Value = <occurrences>
+1) Key = < decade > Value = < occurrences >
 2) Key = < decade w1 * > Value = < occurrences >
 3) Key = < decade w1 ** > Value = < w2 occurrences >
 
